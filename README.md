@@ -1,1 +1,1 @@
-# pluralsight
+# Pluralsight Exercises
